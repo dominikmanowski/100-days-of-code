@@ -9,11 +9,20 @@
 **Link(s) to work**
 [JS Drum Kit](https://github.com/dominikmanowski/javascript30/tree/master/01%20-%20JavaScript%20Drum%20Kit)
 
-### Day 2: January 3, Wednesday
+### Day 2: January 2, Wednesday
 
 **Today's Progress**: I've finished the second challenge of JavaScript30 - CSS & JS clock
 
-**Thoughts** Some calculations may be more difficult than they seem to be
+**Thoughts** Some calculations may be more difficult than they seem to be.
 
 **Link(s) to work**
-[JS Drum Kit](https://github.com/dominikmanowski/javascript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
+[CSS and JS Clock](https://github.com/dominikmanowski/javascript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
+
+### Day 3: January 3, Thursday
+
+**Today's Progress**: I've finished the third challenge of JavaScript30 - Playing with CSS Variables and JS - and started Javascript Algorithms And Data Structures Certification on freeCodeCamp
+
+**Thoughts** I'm started to think that there aren't many gaps in my basic JS knowledge.
+
+**Link(s) to work**
+[CSS Variables]https://github.com/dominikmanowski/javascript30/tree/master/03%20-%20CSS%20Variables
