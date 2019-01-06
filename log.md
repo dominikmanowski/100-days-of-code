@@ -45,3 +45,12 @@
 
 **Link(s) to work**
 [Flex Panel Gallery](https://github.com/dominikmanowski/javascript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
+
+### Day 6: January 6, Sunday
+
+**Today's Progress**: I've finished next part of JavaScripit30 challenge using json-server, Lodash. I've also spent some time with React forms and Formik.
+
+**Thoughts** I have to learn async/await. I is looks more friendly than .then.
+
+**Link(s) to work**
+[Type Ahead](https://github.com/dominikmanowski/javascript30/tree/master/06%20-%20Type%20Ahead)
