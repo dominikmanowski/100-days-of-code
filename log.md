@@ -54,3 +54,12 @@
 
 **Link(s) to work**
 [Type Ahead](https://github.com/dominikmanowski/javascript30/tree/master/06%20-%20Type%20Ahead)
+
+### Day 7: January 7, Monday
+
+**Today's Progress**: I've done next exerice of JavaScripit30 - Array Cardio Day 2. I've also spent a lot of time on learning React, style-components and Redux.
+
+**Thoughts** I've struggled a lot with Redux. There is lot of learning ahead of me.
+
+**Link(s) to work**
+[Array Cardio Day 2](https://github.com/dominikmanowski/javascript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
