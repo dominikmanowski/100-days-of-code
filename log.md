@@ -63,3 +63,12 @@
 
 **Link(s) to work**
 [Array Cardio Day 2](https://github.com/dominikmanowski/javascript30/tree/master/07%20-%20Array%20Cardio%20Day%202)
+
+### Day 8: January 8, Tuesday
+
+**Today's Progress**: Today I've finished 8th day of Javascript30 challenge - Fun with HTML5 Canvas. I've also spent a lot of time learning Redux.
+
+**Thoughts** Redux seemed easier today.
+
+**Link(s) to work**
+[Fun with HTML5 Canvas](https://github.com/dominikmanowski/javascript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
