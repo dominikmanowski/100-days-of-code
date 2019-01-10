@@ -72,3 +72,21 @@
 
 **Link(s) to work**
 [Fun with HTML5 Canvas](https://github.com/dominikmanowski/javascript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
+
+### Day 9: January 9, Tuesday
+
+**Today's Progress**: Today I've finished 9th day of Javascript30 challenge - Dev Tools Domination. I've also spent a lot of time learning React and Redux.
+
+**Thoughts** There are many ways to interact with the console!
+
+**Link(s) to work**
+[Dev Tools Domination](https://github.com/dominikmanowski/javascript30/tree/master/09%20-%20Dev%20Tools%20Domination)
+
+### Day 10: January 10, Tuesday
+
+**Today's Progress**: Today I've finished day 10 of Javascript30 challenge - Hold Shift and Check Checkboxes. As before, I've also spent a lot of time learning React and Redux. I've also spent some time with Webpack, because Parcel was causing problems.
+
+**Thoughts** Webpack isn't as scary as I thought.
+
+**Link(s) to work**
+[Hold Shift and Check Checkboxes](https://github.com/dominikmanowski/javascript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes)
